@@ -44,9 +44,8 @@ The system architecture includes:
 ## Installation
 
 1. Clone the repository:
-  
+   ```bash
    git clone https://github.com/jaithunshifaya/Stock-Price-Prediction.git
-   
    cd Stock-Price-Prediction
 
 2. Install the required packages:
