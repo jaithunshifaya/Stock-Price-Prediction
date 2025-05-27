@@ -11,7 +11,6 @@ This project uses machine learning techniques to predict stock prices based on h
 - [Usage](#usage)
 - [Results](#results)
 - [Future Work](#future-work)
-- [Author](#author)
 
 ## Overview
 
@@ -47,4 +46,42 @@ The system architecture includes:
 1. Clone the repository:
   
    git clone https://github.com/jaithunshifaya/Stock-Price-Prediction.git
+   
    cd Stock-Price-Prediction
+
+2. Install the required packages:
+
+   pip install -r requirements.txt
+   
+3. Run the main script:
+
+   python stock_predictor.py
+  
+## Usage
+
+- Modify the stock symbol and date range in the script as required.
+
+- Use the plots to analyze predictions vs. actual performance.
+
+- Results are displayed in both graphical and numerical formats.
+
+## Results
+
+The model achieved:
+- **Prediction Accuracy:** ~90%
+- **RMSE:** 0.045
+- Strong alignment between actual and predicted prices across test sets.
+- Visual trend graphs that reflect stock market patterns clearly.
+
+## Future Work
+- Integrate attention mechanisms or Transformer models
+- Include news sentiment analysis and social media trends
+- Develop a web-based dashboard for real-time interaction
+- Improve model adaptability across varying market conditions
+
+## Connect
+📧 Email: jaithunshifaya@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/jaithun-shifaya03
+
+Thank you for stopping by!
+   
