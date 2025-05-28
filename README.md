@@ -80,6 +80,7 @@ The model achieved:
 
 ## Connect
 📧 Email: jaithunshifaya@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/jaithun-shifaya03
 
 Thank you for stopping by!
