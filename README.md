@@ -83,5 +83,5 @@ The model achieved:
 
 🔗 LinkedIn: https://www.linkedin.com/in/jaithun-shifaya03
 
-Thank you for stopping by!
+Thank you for stopping by.
    
